@@ -1,0 +1,32 @@
+body{
+	background:#2e8d86;
+}
+.container{
+	width:80%;
+	margin:80px auto;
+}
+.container h1{
+	padding:6opx 0;
+	color:#fff;
+	font-size:44px;
+	text-align:center;
+}
+
+p1{
+border-style:outset;
+width:50px;
+
+}
+A{
+	text-decoration:none;
+}
+h1{
+	border-style:outset;
+}
+img{
+	width:200px;
+	height:200px;
+	border-style:inset;
+}
+
+	

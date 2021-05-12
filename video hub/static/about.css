@@ -1,0 +1,27 @@
+p{
+border-style:outset;
+width:50px;
+
+}
+A{
+	text-decoration:none;
+}
+.profile{
+	border-style:outset;
+	width:600px;
+}
+img{
+	width:600px;
+	position:relative;
+	
+}
+label{
+
+}
+p1{
+	font-size:20px;
+	border-style:inset;
+}
+body{
+	background:#2e8d86;
+}
